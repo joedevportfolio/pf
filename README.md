@@ -1,5 +1,5 @@
 # About Me:
-Computer Science major currently studying in Yonsei University South Korea. <br>I've always been interested in Computers and coding in general. <br>I have different ideas that pop into my head and thought I would put them here. <br>I figured this would be better than having all my projects buried deep within sub-folders inside my computer. <br>These are my past, and currently projects. 
+Computer Science major currently studying in Yonsei University South Korea. <br>I've always been interested in Computers and coding in general. <br>I have different ideas that pop into my head and thought I would put them here. <br>I figured this would be better than having all my projects buried deep within sub-folders inside my computer. <br>These are my past and currently working projects. 
 
 
 ## Socials:
